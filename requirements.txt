@@ -4,3 +4,4 @@ type option
 colors
 dark
 video
+format
